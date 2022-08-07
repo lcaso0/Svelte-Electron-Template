@@ -1,6 +1,6 @@
 ---
 
-# svelte app
+# If you want to create svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -12,17 +12,17 @@ cd svelte-app
 ```
 
 
-## Get started
+## Get started with Svelte + Electron
 
-Install the dependencies...
-
+create svelte-app folder
 ```bash
 cd svelte-app
+git clone https://github.com/lcaso0/Svelte-Electron-Template
 npm install
 ```
 
 ```bash
-npm install --save-dev electron
+npm install --save-dev electron   (if not installed)
 npm run dev
 npm run start 
 ```
