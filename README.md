@@ -26,3 +26,8 @@ npm install --save-dev electron   (if not installed)
 npm run dev
 npm run start 
 ```
+
+```bash
+npm install --save-dev electron-builder   (if not installed)
+npm run package (to build the application)
+```
