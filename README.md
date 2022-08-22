@@ -23,8 +23,7 @@ npm install
 
 ```bash
 npm install --save-dev electron   (if not installed)
-npm run dev
-npm run start 
+npm run dev (to run the app and test it)
 ```
 
 ```bash
